@@ -1,5 +1,5 @@
 <!-- Título -->
-# Revisado a Tabela Verdade
+# Revisando a Tabela Verdade
 
 Aula teórica.
 
